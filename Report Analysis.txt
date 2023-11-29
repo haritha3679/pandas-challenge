@@ -1,12 +1,11 @@
-# pandas-challenge
 Module 4 challenge
 
 Given access to every student's math and reading scores, as well as various information on the schools they attend.  Task is to aggregate the data to showcase obvious trends in school performance.
 
-District Summary Analysis indicates a moderate level of performance , with room for improvement in overall passing rate. In detailed Passing rate for reading is higher at 85.81% compared to math which is at 74.98% 
+District Summary Analysis indicates a moderate level of performance , with room for improvement in overall passing rate. In detailed Passing rate for reading is higher at 85.81% compared to math which is at 74.98% .Detailed level reports are required to draw conclusions to showcase trends in school performance which is more anlaysed below in School Summary.
 
 School Summary 
-
+In the school summary analysis the reports that are created help us visualize the Overall passing rate by school,subjects, school size and spendings. Few points below based on the report analysis.
 1. Spending Range per student Analysis:
  
 As the spending per student increases, there is a general trend of decreasing average scores and passing rates.Schools with lower per-student spending tend to have higher academic performance and passing rates.
